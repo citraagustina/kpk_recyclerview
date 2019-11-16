@@ -21,3 +21,12 @@ class PelangganAdapter(val list: List<Pelanggan>):
         holder.bind(data)
         }
 }
+
+
+
+
+
+
+
+
+
